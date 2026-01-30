@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/edrienne-dorsey/">Data Analyst</a>
 
 - <b>💾SQL Project- Snowflake</b>
   - [Demonstrating SQL Techniques](https://github.com/Edorse11/SQL_Techniques/blob/main/README.md)
-  - [TEST Demonstrating Advance SQL Techniques](NEED NEW LINK)
+  - [TEST Demonstrating Advance SQL Techniques](https://github.com/Edorse11/NEW_TEST_PROJECT/blob/main/README.md)
 
 - <b>💾Power BI </b>
   - [Demonstrating Power BI Techniques](NEED NEW LINK)
@@ -16,6 +16,8 @@ href="https://www.linkedin.com/in/edrienne-dorsey/">Data Analyst</a>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=f987dff8-6e6b-4155-83b8-7b1084e8ad65) 
+- <b>📜Advance SQL Boot Camp</b>
+  - [Demonstrated competency in Advance SQL skills](NEED NEW LINK)    
 
 
 <h2>📱Connect with me:</h2>
