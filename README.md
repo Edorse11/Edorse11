@@ -8,6 +8,10 @@ href="https://www.linkedin.com/in/edrienne-dorsey/">Data Analyst</a>
   - [Demonstrating SQL Techniques](https://github.com/Edorse11/SQL_Techniques/blob/main/README.md)
   - [TEST Demonstrating Advance SQL Techniques](NEED NEW LINK)
 
+- <b>💾Power BI </b>
+  - [Demonstrating Power BI Techniques](NEED NEW LINK)
+
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
