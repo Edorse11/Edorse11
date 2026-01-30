@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/edrienne-dorsey/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project- Snowflake</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/Edorse11/SQL_Techniques/blob/main/README.md)
 
 <h2>📚Certifications:</h2>
 
