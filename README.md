@@ -6,6 +6,7 @@ href="https://www.linkedin.com/in/edrienne-dorsey/">Data Analyst</a>
 
 - <b>💾SQL Project- Snowflake</b>
   - [Demonstrating SQL Techniques](https://github.com/Edorse11/SQL_Techniques/blob/main/README.md)
+  - [TEST Demonstrating Advance SQL Techniques](NEED NEW LINK)
 
 <h2>📚Certifications:</h2>
 
